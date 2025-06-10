@@ -6,10 +6,17 @@ https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpe
 
 ![image](https://github.com/user-attachments/assets/237292e6-8858-41be-94bb-633077c745b1)
 
+
+#需要复制的JSON
+
+
+
 {"_id":"civitaiImgGallery","startUrl":["https://civitai.com/images/17631835","https://civitai.com/images/5120821","https://civitai.com/images/165982","https://civitai.com/images/30465960"],"selectors":[{"id":"prompt","parentSelectors":["_root","next"],"type":"SelectorText","selector":"div:nth-of-type(4) div.mantine-1c2skr8","multiple":false,"regex":""},{"id":"next","parentSelectors":["_root","next"],"paginationType":"clickMore","type":"SelectorPagination","selector":".min-h-0 svg.tabler-icon-chevron-right"}]}
 
 
-未曾导入，不会警告
+复制未曾导入，不会警告
+![image](https://github.com/user-attachments/assets/faf6a3d0-cbb2-4f32-9904-760cba695eed)
+
 ![image](https://github.com/user-attachments/assets/222feb2e-1f8b-46ff-8357-0fab97a89222)
 
 
