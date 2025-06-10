@@ -38,8 +38,8 @@ https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpe
 
 # 针对得页面，这种底下展览馆图片数量多的，模型或者lora页面
 
-https://civitai.com/models/12262/night-sky-yozora-style-model
-https://civitai.com/images/142745
+## https://civitai.com/models/12262/night-sky-yozora-style-model
+## https://civitai.com/images/142745
 
 ![abe3be529be1bc9f16a9d51a513efb6c](https://github.com/user-attachments/assets/3e18b450-e342-44aa-b79b-744f3ec594e6)
 
